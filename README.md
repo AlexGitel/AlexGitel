@@ -18,9 +18,3 @@
 </div>
 
 ###
-
-<div align="right">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="58" height="42" alt="discord logo"  />
-</div>
-
-###
