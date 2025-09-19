@@ -27,6 +27,8 @@
 
 ###
 
+<h2 align="left">Snake Animation:</h2>
+
 <img src="https://raw.githubusercontent.com/AlexGitel/AlexGitel/output/snake.svg" alt="Snake animation" />
 
 ###
