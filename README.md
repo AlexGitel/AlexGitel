@@ -27,6 +27,25 @@
  <img width="12" />
 
 
+ <table>
+<tr>
+  <td><img src="...javascript..." height="40"/></td>
+  <td width="12"></td>
+  <td><img src="...typescript..." height="40"/></td>
+</tr>
+
+<tr height="12"></tr>
+
+<tr>
+  <td><img src="...firebase..." height="40"/></td>
+  <td width="12"></td>
+  <td><img src="...angular..." height="40"/></td>
+  <td width="12"></td>
+  <td><img src="...react..." height="40"/></td>
+</tr>
+</table>
+
+
 <h3 align="left">Dev-Tools</h3>
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
    <img width="12" />
