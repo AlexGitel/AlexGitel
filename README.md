@@ -29,19 +29,19 @@
 
  <table>
 <tr>
-  <td><img src="...javascript..." height="40"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></td>
   <td width="12"></td>
-  <td><img src="...typescript..." height="40"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></td>
 </tr>
 
 <tr height="12"></tr>
 
 <tr>
-  <td><img src="...firebase..." height="40"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></td>
   <td width="12"></td>
-  <td><img src="...angular..." height="40"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></td>
   <td width="12"></td>
-  <td><img src="...react..." height="40"/></td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></td>
 </tr>
 </table>
 
