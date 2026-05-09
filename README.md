@@ -19,7 +19,7 @@
    <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
    <img width="12" />
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"></a>
    <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 
