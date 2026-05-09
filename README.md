@@ -21,8 +21,8 @@
    <img width="12" />
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"></a>
    <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-    <img width="12" />
+   <img  width="12" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+   
 
 
 <h3 align="left">Dev-Tools</h3>
