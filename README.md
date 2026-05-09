@@ -22,9 +22,8 @@
   <img width="12" />
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   <img width="12" />
-  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
- <img width="12" />
+  <img width="12" />
 
 
 <h3 align="left">Dev-Tools</h3>
